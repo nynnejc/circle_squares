@@ -1,3 +1,1 @@
-# first-clojure.clj
-
-A project using Quil in which ... well, that part is up to you.
+Animation with Clojure and Quil.
